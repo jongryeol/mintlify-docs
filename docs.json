@@ -15,7 +15,7 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["ko/", "ko/quickstart", "ko/development"]
+            "pages": ["ko/index", "ko/quickstart", "ko/development"]
           }
         ]
       }
