@@ -9,6 +9,17 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "languages": [
+      {
+        "language": "ko",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": ["ko/quickstart", "ko/development"]
+          }
+        ]
+      }
+    ],
     "tabs": [
       {
         "tab": "Guides",
