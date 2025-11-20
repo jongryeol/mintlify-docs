@@ -38,20 +38,20 @@
           "tab": "문서",
           "versions": [
             {
-              "version": "1.0.0",
+              "version": "2026.01.01",
               "groups": [
                 {
                   "group": "Getting started",
-                  "pages": ["v1/overview", "v1/quickstart", "v1/development"]
+                  "pages": ["ko/terms", "ko/terms/privacy"]
                 }
               ]
             },
             {
-              "version": "2.0.0",
+              "version": "2025.4.20",
               "groups": [
                 {
                   "group": "Getting started",
-                  "pages": ["v2/overview", "v2/quickstart", "v2/development"]
+                  "pages": ["v2/overview", "v2/quickstart"]
                 }
               ]
             }
