@@ -28,7 +28,7 @@
             "global": {
             "anchors": [
               {
-                "icon": "tabler:logout-2",
+                "icon": "arrow-right-from-bracket",
                 "anchor": "로우그래피 파트너스",
                 "href": "https://partner.worksd.kr"
               }
