@@ -66,19 +66,6 @@
     "light": "/logo/light.png",
     "dark": "/logo/dark.png"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "👋 Support",
-        "href": "mailto:official@rawgraphy.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
   "contextual": {
     "options": [
      "chatgpt"
