@@ -14,40 +14,48 @@
         "language": "ko",
         "tabs" : [
           {
-            "tab": "API reference",
+            "tab": "가이드",
             "groups": [
+              {
+                "group": "시작하기",
+                "pages": ["ko/index", "ko/quickstart", "ko/development"]
+              },         
+              {
+                "group": "두번째",
+                "pages": ["ko/index", "ko/quickstart", "ko/development"]
+              }
+            ],
+            "global": {
+            "anchors": [
+              {
+                "anchor": "로우그래피 파트너스",
+                "href": "https://partner.worksd.kr"
+              }
+            ]
+          }
+        },
+        {
+          "tab": "문서",
+          "versions": [
             {
-              "group": "시작하기",
-              "pages": ["ko/index", "ko/quickstart", "ko/development"]
-            },         
-            {
-              "group": "두번째",
-              "pages": ["ko/index", "ko/quickstart", "ko/development"]
-            }
-          ],
-        "global": {
-          "anchors": [
-            {
-              "anchor": "독스",
-              "href": "https://mintlify.com/docs",
-              "icon": "book-open-cover"
+              "version": "1.0.0",
+              "groups": [
+                {
+                  "group": "Getting started",
+                  "pages": ["v1/overview", "v1/quickstart", "v1/development"]
+                }
+              ]
             },
             {
-              "anchor": "블로그",
-              "href": "https://mintlify.com/blog",
-              "icon": "newspaper"
+              "version": "2.0.0",
+              "groups": [
+                {
+                  "group": "Getting started",
+                  "pages": ["v2/overview", "v2/quickstart", "v2/development"]
+                }
+              ]
             }
           ]
-        }
-          },
-          {
-            "tab": "SDKs",
-        "icon": "code",
-        "pages": [
-          "sdk/fetch",
-          "sdk/create",
-          "sdk/delete"
-        ]
           }
         ]
       }
