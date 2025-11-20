@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "maple",
   "name": "Rawgraphy Docs",
   "colors": {
     "primary": "#000000",
@@ -9,10 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "products": [
-      {
-      "product": "Partners",
-      "description": "로우그래피 파트너스 가이드",    
       "languages": [
       {
         "language": "ko",
@@ -63,8 +59,6 @@
           ]
           }
         ]
-      }
-    ]
       }
     ]
   },
