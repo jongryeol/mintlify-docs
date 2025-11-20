@@ -9,54 +9,68 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-      "languages": [
+    "languages": [
       {
         "language": "ko",
-        "tabs" : [
+        "tabs": [
           {
             "tab": "가이드",
             "groups": [
               {
                 "group": "시작하기",
-                "pages": ["ko/index", "ko/quickstart", "ko/development"]
-              },         
+                "pages": [
+                  "ko/index",
+                  "ko/quickstart"
+                ]
+              },
               {
-                "group": "두번째",
-                "pages": ["ko/index", "ko/quickstart", "ko/development"]
+                "group": "결제 및 정산",
+                "pages": [
+                  "ko/payments/how-to-refund",
+                  "ko/payments/supported-payment-methods",
+                  "ko/finance/how-to-file-taxes",
+                  "ko/finance/how-to-settle-revenue"
+                ]
               }
             ],
             "global": {
-            "anchors": [
-              {
-                "icon": "display",
-                "anchor": "로우그래피 파트너스",
-                "href": "https://partner.worksd.kr"
-              }
-            ]
-          }
-        },
-        {
-          "tab": "문서",
-          "versions": [
-            {
-              "version": "2026.01.01",
-              "groups": [
+              "anchors": [
                 {
-                  "group": "Getting started",
-                  "pages": ["ko/terms", "ko/terms/privacy"]
-                }
-              ]
-            },
-            {
-              "version": "2025.4.20",
-              "groups": [
-                {
-                  "group": "Getting started",
-                  "pages": ["v2/overview", "v2/quickstart"]
+                  "icon": "display",
+                  "anchor": "로우그래피 파트너스",
+                  "href": "https://partner.worksd.kr"
                 }
               ]
             }
-          ]
+          },
+          {
+            "tab": "문서",
+            "versions": [
+              {
+                "version": "2026.01.01",
+                "groups": [
+                  {
+                    "group": "Getting started",
+                    "pages": [
+                      "ko/terms",
+                      "ko/terms/privacy"
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "2025.4.20",
+                "groups": [
+                  {
+                    "group": "Getting started",
+                    "pages": [
+                      "ko/terms",
+                      "ko/terms/privacy"
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
@@ -68,8 +82,8 @@
   },
   "contextual": {
     "options": [
-     "chatgpt"
-   ]
+      "chatgpt"
+    ]
   },
   "footer": {
     "socials": {
@@ -77,7 +91,7 @@
       "instagram": "https://www.instagram.com/rawgraphy.inc/"
     }
   },
-  "banner" : {
-  "content": "🚀 Banner is live! [Learn more](mintlify.com)"
-}
+  "banner": {
+    "content": "🚀 Banner is live! [Learn more](mintlify.com)"
+  }
 }
