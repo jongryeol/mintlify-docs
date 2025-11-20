@@ -32,29 +32,6 @@
             }
           ]
         }
-      },
-      {
-        "language": "en",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": ["en/index", "en/quickstart", "en/development"]
-          }
-        ],
-        "global": {
-          "anchors": [
-            {
-              "anchor": "영어독스",
-              "href": "https://mintlify.com/docs",
-              "icon": "book-open-cover"
-            },
-            {
-              "anchor": "영어블로그",
-              "href": "https://mintlify.com/blog",
-              "icon": "newspaper"
-            }
-          ]
-        }
       }
     ]
   },
