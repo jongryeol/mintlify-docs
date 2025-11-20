@@ -12,12 +12,19 @@
     "languages": [
       {
         "language": "ko",
-        "groups": [
+        "tabs" : [
           {
-            "group": "시작하기",
-            "pages": ["ko/index", "ko/quickstart", "ko/development"]
-          }
-        ],
+            "tab": "API reference",
+            "groups": [
+            {
+              "group": "시작하기",
+              "pages": ["ko/index", "ko/quickstart", "ko/development"]
+            },         
+            {
+              "group": "두번째",
+              "pages": ["ko/index", "ko/quickstart", "ko/development"]
+            }
+          ],
         "global": {
           "anchors": [
             {
@@ -32,6 +39,17 @@
             }
           ]
         }
+          },
+          {
+            "tab": "SDKs",
+        "icon": "code",
+        "pages": [
+          "sdk/fetch",
+          "sdk/create",
+          "sdk/delete"
+        ]
+          }
+        ]
       }
     ]
   },
