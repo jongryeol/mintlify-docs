@@ -52,8 +52,8 @@
                   {
                     "group": "Getting started",
                     "pages": [
-                      "ko/terms",
-                      "ko/terms/privacy"
+                      "ko/policies/terms-of-service",
+                      "ko/policies/privacy-policy"
                     ]
                   }
                 ]
@@ -64,8 +64,8 @@
                   {
                     "group": "Getting started",
                     "pages": [
-                      "ko/terms",
-                      "ko/terms/privacy"
+                      "ko/policies/terms-of-service",
+                      "ko/policies/privacy-policy"
                     ]
                   }
                 ]
