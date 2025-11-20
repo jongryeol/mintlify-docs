@@ -88,5 +88,8 @@
       "website": "https://partner.worksd.kr",
       "instagram": "https://www.instagram.com/rawgraphy.inc/"
     }
-  }
+  },
+  "banner" : {
+  "content": "🚀 Banner is live! [Learn more](mintlify.com)"
+}
 }
