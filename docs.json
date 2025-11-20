@@ -9,7 +9,11 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "languages": [
+    "products": [
+      {
+      "product": "Partners",
+      "description": "로우그래피 파트너스 가이드",    
+      "languages": [
       {
         "language": "ko",
         "tabs" : [
@@ -28,7 +32,7 @@
             "global": {
             "anchors": [
               {
-                "icon": "arrow-right-from-bracket",
+                "icon": "display",
                 "anchor": "로우그래피 파트너스",
                 "href": "https://partner.worksd.kr"
               }
@@ -59,6 +63,8 @@
           ]
           }
         ]
+      }
+    ]
       }
     ]
   },
