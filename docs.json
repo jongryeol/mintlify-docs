@@ -4,7 +4,7 @@
   "name": "Rawgraphy Docs",
   "colors": {
     "primary": "#FFC107",
-    "light": "#FFC107",
+    "light": "#FFFFFF",
     "dark": "#FFFFFF"
   },
   "favicon": "/favicon.svg",
