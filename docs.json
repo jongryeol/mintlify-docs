@@ -48,35 +48,6 @@
                 }
               ]
             }
-          },
-          {
-            "tab": "문서",
-            "versions": [
-              {
-                "version": "2026.01.01",
-                "groups": [
-                  {
-                    "group": "Getting started",
-                    "pages": [
-                      "ko/policies/terms-of-service",
-                      "ko/policies/privacy-policy"
-                    ]
-                  }
-                ]
-              },
-              {
-                "version": "2025.4.20",
-                "groups": [
-                  {
-                    "group": "Getting started",
-                    "pages": [
-                      "ko/policies/terms-of-service",
-                      "ko/policies/privacy-policy"
-                    ]
-                  }
-                ]
-              }
-            ]
           }
         ]
       }
