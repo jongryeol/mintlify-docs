@@ -9,45 +9,49 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "languages": [
+    "anchors": [
       {
-        "language": "ko",
-        "tabs": [
+        "anchor": "Untitled Anchor",
+        "languages": [
           {
-            "tab": "가이드",
-            "groups": [
+            "language": "ko",
+            "tabs": [
               {
-                "group": "시작하기",
-                "pages": [
-                  "ko/index",
-                  "ko/quickstart"
-                ]
-              },
-              {
-                "group": "결제 및 정산",
-                "pages": [
-                  "ko/payments/cancellation-and-refund-policy",
-                  "ko/payments/supported-payment-methods",
-                  "ko/finance/how-to-file-taxes",
-                  "ko/finance/how-to-settle-revenue"
-                ]
-              },
-              {
-                "group": "안내",
-                "pages": [
-                  "ko/notice/sms-guidelines"
+                "tab": "가이드",
+                "global": {
+                  "anchors": [
+                    {
+                      "anchor": "로우그래피 파트너스",
+                      "icon": "display",
+                      "href": "https://partner.worksd.kr"
+                    }
+                  ]
+                },
+                "groups": [
+                  {
+                    "group": "시작하기",
+                    "pages": [
+                      "ko/quickstart"
+                    ]
+                  },
+                  {
+                    "group": "결제 및 정산",
+                    "pages": [
+                      "ko/payments/cancellation-and-refund-policy",
+                      "ko/payments/supported-payment-methods",
+                      "ko/finance/how-to-file-taxes",
+                      "ko/finance/how-to-settle-revenue"
+                    ]
+                  },
+                  {
+                    "group": "안내",
+                    "pages": [
+                      "ko/notice/sms-guidelines"
+                    ]
+                  }
                 ]
               }
-            ],
-            "global": {
-              "anchors": [
-                {
-                  "icon": "display",
-                  "anchor": "로우그래피 파트너스",
-                  "href": "https://partner.worksd.kr"
-                }
-              ]
-            }
+            ]
           }
         ]
       }
