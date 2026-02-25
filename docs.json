@@ -9,7 +9,14 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": []
+    "groups": [
+      {
+        "group": "Untitled Group",
+        "pages": [
+          "ko/finance/settlement-policy"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.png",
