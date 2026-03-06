@@ -16,6 +16,12 @@
           "ko/finance/settlement-policy",
           "ko/payments/cancellation-and-refund-policy"
         ]
+      },
+      {
+        "group": "Untitled Group",
+        "pages": [
+          "ko/instructor/how-to-add-instructor"
+        ]
       }
     ]
   },
