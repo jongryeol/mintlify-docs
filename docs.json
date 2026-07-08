@@ -22,6 +22,12 @@
         "pages": [
           "ko/studio/how-to-add-classroom"
         ]
+      },
+      {
+        "group": "Untitled Group",
+        "pages": [
+          "ko/class/how-to-create-class-template"
+        ]
       }
     ]
   },
